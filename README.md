@@ -1,2 +1,2 @@
 # NewExample
-Trying fetch data by VS code
+Trying to fetch data by VS code
